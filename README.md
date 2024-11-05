@@ -1,2 +1,4 @@
 # Projekt na rekvalifikační kurz Zubní instrumentářka
-MS project obsahuje WBS, která zahrnuje přípravu, realizaci a vyhodnocení nákladů na úkol a zdroje
+MS project obsahuje Gaussuv diagram
+WBS která zahrnuje přípravu, realizaci a vyhodnocení 
+Přehled nákladů na úkol a zdroje
